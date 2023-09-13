@@ -18,7 +18,7 @@ To use Crypto Tracker, simply open the application in your web browser. You can 
 
 ## Project GIF
 
-![Project Snapshot](./assets/expencetracking.gif)
+![Project Snapshot](/assets/CryptoTracker.gif)
 
 ### The project includes the following topics and tools;
 
@@ -36,7 +36,7 @@ We would greatly appreciate your contributions to the project. Your help and con
 
 You can access the live demo of the project using the following link:
 
-[Live Demo](https://imoguz.github.io/expense-tracking-apps/)
+[Live Demo](https://imoguz.github.io/CryptoTrackerApp/)
 
 ## Contact
 
