@@ -26,7 +26,6 @@ To use Crypto Tracker, simply open the application in your web browser. You can 
 - CSS
 - Bootstrap
 - JavaScript
-- Local Storage
 
 ## Contributing
 
